@@ -233,8 +233,8 @@ runtime_parameters:
     secretProvider:
       type: KeyVault
       environment: azure
-      vaultUrl: 'https://myVaultName.vault.azure.net'
-      secretId: mySecretId
+      vaultUrl: 'https://f5dev1003.vault.azure.net'
+      secretId: 76397e8351d04f918e6c932504d84424
   - name: SELF_IP_EXTERNAL
     type: metadata
     metadataProvider:
